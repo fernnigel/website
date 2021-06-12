@@ -15,9 +15,9 @@
   src: url("./fonts/QuickKissPersonalUse-PxlZ.ttf");
 }
 
-#particles-js{
-  width: inherit!important;
-  height: inherit!important;
+#particles-js {
+  width: inherit !important;
+  height: inherit !important;
 }
 
 nav {
@@ -260,16 +260,16 @@ nav {
   margin-top: 30px;
 }
 
-.nav-phone{
-  display:none;
-}
-.mobile-links{
+.nav-phone {
   display: none;
 }
-.dflex{
+.mobile-links {
   display: none;
 }
-.mob-links{
+.dflex {
+  display: none;
+}
+.mob-links {
   display: none;
 }
 
@@ -290,16 +290,15 @@ nav {
   .desc2 {
     font-size: 25px;
   }
-  .technologies{
+  .technologies {
     height: 25vh;
   }
-  .tech-img{
+  .tech-img {
     width: 100px;
   }
 }
 
-
-@media only screen and (max-width:896px){
+@media only screen and (max-width: 896px) {
   #logo {
     font-size: 25px;
   }
@@ -315,7 +314,7 @@ nav {
   .desc2 {
     font-size: 25px;
   }
-  .technologies{
+  .technologies {
     height: 20vh;
   }
   .tech-img {
@@ -331,7 +330,7 @@ nav {
   }
 }
 
-@media only screen and (max-width:768px){
+@media only screen and (max-width: 768px) {
   #logo {
     font-size: 22px;
   }
@@ -345,57 +344,57 @@ nav {
 
   .proj h2 {
     font-size: 18px;
-   }
-   
-   .proj p {
-     font-size: 12px;
-   }
-   .lang ul li {
-     display: inline;
-     font-size: 14px;
-   }
-   
-   .lang ul li::before {
-     content: "• ";
-   }
+  }
 
-   .lang button {
-     border-radius: 5px;
-     width: 40px;
-     height: 25px;
-     font-size: 12px;
-   }
+  .proj p {
+    font-size: 12px;
+  }
+  .lang ul li {
+    display: inline;
+    font-size: 14px;
+  }
+
+  .lang ul li::before {
+    content: "• ";
+  }
+
+  .lang button {
+    border-radius: 5px;
+    width: 40px;
+    height: 25px;
+    font-size: 12px;
+  }
 }
 
-@media only screen and (max-width:700px) {
+@media only screen and (max-width: 700px) {
   #logo {
     font-size: 20px;
   }
-  .nav-a{
+  .nav-a {
     display: none;
   }
-  .nav-phone{
+  .nav-phone {
     display: block;
   }
-  .menu{
+  .menu {
     width: 24px;
     margin-left: 50vw;
     margin-top: 15px;
-    cursor:pointer;
+    cursor: pointer;
   }
-  .mobile-links{
+  .mobile-links {
     display: none;
     flex-direction: column;
     position: absolute;
-    top:10vh;
-    right:60vh;
+    top: 10vh;
+    right: 60vh;
   }
-  .mob-links{
+  .mob-links {
     padding: 10px;
     display: block;
     color: #f8f3ec;
     text-decoration: none;
-    font-family: MomcakeThin,sans-serif;
+    font-family: MomcakeThin, sans-serif;
     font-size: 18px;
   }
   .lang {
@@ -403,9 +402,9 @@ nav {
     top: 30%;
   }
   .proj h2 {
-   font-size: 18px;
+    font-size: 18px;
   }
-  
+
   .proj p {
     font-size: 14px;
   }
@@ -418,31 +417,31 @@ nav {
     display: inline;
     font-size: 14px;
   }
-  
+
   .lang ul li::before {
     content: "• ";
   }
-  
+
   .lang button {
     border-radius: 5px;
     width: 40px;
     height: 25px;
     font-size: 12px;
   }
-  .proj-row{
+  .proj-row {
     height: 60vh;
     flex-direction: column;
     justify-content: space-around;
   }
-  
-  #projects{
+
+  #projects {
     height: 150vh;
   }
   .projectDiv {
     top: 10%;
     height: 100vh;
   }
-  
+
   .projectsList {
     width: 80vw;
     height: 120vh;
@@ -458,23 +457,22 @@ nav {
     height: 40vh;
     background-color: #facc5f;
   }
-  
+
   .contact-img {
     width: 32px;
-
   }
   .contactDiv {
     width: 25vw;
   }
-  
+
   .contactDiv2 a {
     font-size: 16px;
   }
-  
+
   .contactDiv2 a:hover {
     text-decoration: underline;
   }
-  
+
   .contactDiv2 {
     display: flex;
     flex-direction: column;
@@ -483,51 +481,51 @@ nav {
     width: 90vw;
     margin-top: 30px;
   }
-  
-  .tech-img{
+
+  .tech-img {
     width: 70px;
   }
 }
 
-.phone-drop-down{
+.phone-drop-down {
   height: 30vh;
 }
 
-.dflex{
+.dflex {
   display: flex;
 }
 
-@media only screen and (max-width:600px){
-  .mobile-links{
-    top:10vh;
-    right:50vh;
+@media only screen and (max-width: 600px) {
+  .mobile-links {
+    top: 10vh;
+    right: 50vh;
   }
-  .mob-links{
+  .mob-links {
     font-size: 16px;
   }
 }
 
-@media only screen and (max-width:550px){
-  .mobile-links{
-    top:10vh;
-    right:40vh;
+@media only screen and (max-width: 550px) {
+  .mobile-links {
+    top: 10vh;
+    right: 40vh;
   }
-  
+
   .name {
     font-size: 50px;
   }
-  
+
   .desc1,
   .desc2 {
     font-size: 20px;
   }
 }
 
-@media only screen and (max-width:450px){
-  .menu{
+@media only screen and (max-width: 450px) {
+  .menu {
     margin-left: 40vw;
   }
-  .tech-img{
+  .tech-img {
     width: 50px;
   }
 }
