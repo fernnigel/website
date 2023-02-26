@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.40711470.css",
+    "main.js": "/website/static/js/main.faa47432.js",
+    "static/js/787.88012170.chunk.js": "/website/static/js/787.88012170.chunk.js",
+    "static/media/snap-bitmoji.PNG": "/website/static/media/snap-bitmoji.bec3fdc3eafea88febdc.PNG",
+    "static/media/Nigel Fernandes - Resume.pdf": "/website/static/media/Nigel Fernandes - Resume.9416949c6f5f930ca001.pdf",
+    "index.html": "/website/index.html",
+    "main.40711470.css.map": "/website/static/css/main.40711470.css.map",
+    "main.faa47432.js.map": "/website/static/js/main.faa47432.js.map",
+    "787.88012170.chunk.js.map": "/website/static/js/787.88012170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40711470.css",
+    "static/js/main.faa47432.js"
+  ]
+}
