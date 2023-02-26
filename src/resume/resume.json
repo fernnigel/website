@@ -1,0 +1,65 @@
+{
+  "resume": {
+    "education": [
+      {
+        "university": "Mumbai university",
+        "school": "St. Francis Institute Of Technology",
+        "degree": "Bachelor Of Engineering (B.E.)",
+        "date": "Aug 2019 - June 2023"
+      }
+    ],
+    "work": [
+      {
+        "company": "Montran Corporation (India) Pvt. Ltd",
+        "title": "Software Engineering Intern",
+        "years": "June 2022 - July 2022",
+        "description": "Developed and implemented a backend application in spring for a chatbot that helps users navigate through various business processes."
+      },
+      {
+        "company": "OpenCubicles Technologies Pvt Ltd",
+        "title": "Full Stack Developer Intern",
+        "years": "Aug 2021 - Dec 2021",
+        "description": "Integrated Wise API (formerly TransferWise) as a payout gateway supporting transfer of GBP (primary) to multiple currencies.\nDeveloped a dashboard in vue.js showcasing various statistics to the admin using graphs and charts to see quick and easy visualizations of data.\nCreated a dictionary web application in laravel consisting of 1500 words across 50 categories in a tabular representation in a navigational hierarchy.\nCollaborated with other developers to identify and fix bugs to ensure that the application meets customer requirements."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "40%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
+        "name": "Express",
+        "level": "60%"
+      },
+      {
+        "name": "flutter",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      { "name": "Mongodb", "level": "60%" }
+    ]
+  }
+}

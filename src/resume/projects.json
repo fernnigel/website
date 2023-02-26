@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Student Accommodation Service",
+      "date": "July 2022 - present",
+      "type": "Mobile App",
+      "skills":"Flutter,Python,K-means Clustering,Express,MySQL",
+      "description": "Creating an application to assist students in finding housing, depending on their likes and preferences. K-means clustering algorithm will be used to group together students/homeowners who have similar preferences, based on a questionnaire created utilizing the \"OCEAN\" big 5 personality traits dataset"
+    },
+    {
+      "name": "Generic Medicine App",
+      "date": "July 2021 - May 2022",
+      "type": "Mobile App",
+      "skills":"Flutter,Express,MySQL",
+      "description": "Developed an application in flutter that showcases 200+ branded medicines along with their generic counterparts to help users find generic medicines to their pricey branded medicine counterparts"
+    },
+    {
+      "name": "Wikipedia Chatbot",
+      "type": "Web App",
+      "skills":"HTML,CSS,JavaScript,Django,sqlite",
+      "description": "created a chatbot that fetches information from wikipedia using verbal user input, users can save information if needed",
+      "link": "https://github.com/fernnigel/wikipedia-chatbot"
+    },
+    {
+      "name": "Stock Market Tracker",
+      "type": "Web App",
+      "skills":"React, Material UI",
+      "description": "built a react app that displays/compares stock data fetched using alpha vantage free API",
+      "link": "https://stoic-noether-425fa3.netlify.app/"
+    }
+  ]
+}
